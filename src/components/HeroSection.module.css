@@ -1,0 +1,7 @@
+.herosectionBg{
+    /* background: url('../assets/herosection-bg.jpg'); */
+    background-image: url("../assets/heroSectionBg.png");
+    background-position: center;
+    background-size: cover;
+    background-color: #000000;
+}

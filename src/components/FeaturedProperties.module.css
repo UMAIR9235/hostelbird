@@ -1,0 +1,17 @@
+
+    /* Hide scrollbar for Chrome, Safari and Opera */
+    .featuredPropertiesCarousel::-webkit-scrollbar {
+    display: none;
+  }
+  
+  /* Hide scrollbar for IE, Edge and Firefox */
+  .featuredPropertiesCarousel {
+    -ms-overflow-style: none;  /* IE and Edge */
+    scrollbar-width: none;  /* Firefox */
+  }
+
+  .featuredPropertiesBg{
+    background-image: url("../assets/featuredPropertiesBg.jpg");
+    background-position: center;
+    background-size: cover;
+  }
